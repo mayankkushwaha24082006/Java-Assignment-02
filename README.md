@@ -31,22 +31,23 @@ This project demonstrates the use of Java OOP concepts like Method Overloading, 
 
 ## 📸 Demo (Sample Run)
 
-CALCULATOR APPLICATION
-
+Welcome to the Calculator Application!
 1. Add Numbers
 2. Subtract Numbers
 3. Multiply Numbers
 4. Divide Numbers
 5. Exit
-===============================
- Enter your choice: 1
- Choose Addition Type:
+Enter your choice: 1
 
-   1. Two Integers  
-   2. Two Doubles
-   3. Three Integers
+Choose Addition Type:
+1. Two Integers
+2. Two Doubles
+3. Three Integers
+Enter your choice: 1
+Enter first integer: 10
+Enter second integer: 20
+Result: 30
+
+
+
    
-      Enter your choice: 1
-      Enter first integer: 10
-      Enter second integer: 20
-      Result: 30
