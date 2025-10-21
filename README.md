@@ -37,6 +37,7 @@ Welcome to the Calculator Application!
 3. Multiply Numbers
 4. Divide Numbers
 5. Exit
+   
 Enter your choice: 1
 
 Choose Addition Type:
