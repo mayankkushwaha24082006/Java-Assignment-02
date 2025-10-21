@@ -43,6 +43,7 @@ Choose Addition Type:
 1. Two Integers
 2. Two Doubles
 3. Three Integers
+
 Enter your choice: 1
 Enter first integer: 10
 Enter second integer: 20
