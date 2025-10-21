@@ -2,7 +2,7 @@
 
 ## 🧮 Project on Calculator Application using Method Overloading
 
-A simple Calculator Application written in Java that allows users to perform basic arithmetic operations such as Addition, Subtraction, Multiplication**, and Division.  
+A simple Calculator Application written in Java that allows users to perform basic arithmetic operations such as Addition, Subtraction, Multiplication, and Division.  
 This project demonstrates the use of Java OOP concepts like Method Overloading, Polymorphism, Exception Handling, along with control structures and user input handling using the `Scanner` class.
 
 ## 📌 Features
