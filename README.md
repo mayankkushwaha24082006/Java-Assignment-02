@@ -45,8 +45,11 @@ Choose Addition Type:
 3. Three Integers
 
 Enter your choice: 1
+
 Enter first integer: 10
+
 Enter second integer: 20
+
 Result: 30
 
 
